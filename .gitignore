@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Soffee.Core/Soffee.Core.Api/appsettings.Development.json
