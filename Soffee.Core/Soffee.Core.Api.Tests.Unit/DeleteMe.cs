@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace Soffee.Core.Api.Tests.Unit
 {
     public class DeleteMe

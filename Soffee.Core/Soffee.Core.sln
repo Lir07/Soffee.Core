@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soffee.Core.Api", "Soffee.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soffee.Core.Api.Tests.Unit", "Soffee.Core.Api.Tests.Unit\Soffee.Core.Api.Tests.Unit.csproj", "{3C25BFC4-987A-4A8E-9E80-9C34F7461441}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soffee.Core.Api.Tests.Acceptance", "Soffee.Core.Api.Tests.Acceptance\Soffee.Core.Api.Tests.Acceptance.csproj", "{5E9E7C85-D7AF-4F28-9068-A9BB69C08AE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3C25BFC4-987A-4A8E-9E80-9C34F7461441}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C25BFC4-987A-4A8E-9E80-9C34F7461441}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C25BFC4-987A-4A8E-9E80-9C34F7461441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9E7C85-D7AF-4F28-9068-A9BB69C08AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9E7C85-D7AF-4F28-9068-A9BB69C08AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9E7C85-D7AF-4F28-9068-A9BB69C08AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9E7C85-D7AF-4F28-9068-A9BB69C08AE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
